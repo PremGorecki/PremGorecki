@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PremGorecki
-- 👀 I’m interested in Data Science. I'm experience in SQL, Programing Languages, Excel, English, Spanish, Polish. 
+- 👀 I’m interested in Data Engineering. I'm experience in SQL, Python, PySpark, English, Spanish, Polish. 
 - 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on Data Analysis
+- 💞️ I’m looking to collaborate on Azure Data Factory, Synapse Analytics, Databricks, Data Lake, 
 - 📫 How to reach me ... via email minutnik75@gmail.com or phone +48 512 122 838
 
 <!---
