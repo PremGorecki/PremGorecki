@@ -1,4 +1,15 @@
-## Hi there 👋
+## Pradopodobnie najbardziej kompleksowy kurs po polsku
+
+
+- [ ] Ala ma kota
+- [x] Kot ma Alę
+
+Tekstu **pogrbiony**
+
+
+![enter image description here](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+
+Zapraszam na stronę kursu [link](https://www.onet.pl/)
 
 <!--
 **PremGorecki/PremGorecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
